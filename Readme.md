@@ -19,6 +19,12 @@ Aqui está resulta dos testes no terminal:
 
 <img src='https://user-images.githubusercontent.com/68041354/212434252-36473643-3554-4cdf-a9b1-5befbafe0d51.png' width='443'>
 
+#### Video report:
+
+
+https://user-images.githubusercontent.com/68041354/212435108-abf81094-efa5-44d4-9d31-9fa85aaa2e06.mp4
+
+
 
 ### Algumas funções de comando cypress:
 Get Cypress Info
