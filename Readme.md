@@ -39,4 +39,4 @@ npm cache clean --force
 #### CYPRESS DOCS:    https://docs.cypress.io/guides/overview/why-cypress
 #### NODE DOCS:       https://nodejs.org/en/docs/
 
-Nota: algumas vezes o cypress fica sobrecarregado de cache o se por acaso nao funcionar vá na pasta cypress>file>ViewAppData> E apaga as pastas.
+Nota: algumas vezes o cypress fica sobrecarregado de cache o se por acaso nao funcionar o comando npm cache clean --force vá na pasta cypress>file>ViewAppData> E apaga as pastas.
