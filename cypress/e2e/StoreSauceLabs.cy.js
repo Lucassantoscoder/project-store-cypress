@@ -40,4 +40,4 @@ describe('Sauce Labs', () => {
       cy.log('Obrigado pela compra!!')
   }) 
 })
-    //    cy.log("#Resultado").text(" Aqui") cy.wait(6000) 
+   
